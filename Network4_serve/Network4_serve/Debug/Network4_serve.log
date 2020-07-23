@@ -1,0 +1,18 @@
+﻿生成启动时间为 2020/6/4 12:26:47。
+     1>项目“E:\vs daima\Network4_serve\Network4_serve\Network4_serve.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\VS2013\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Network4_serve.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Serve.cpp
+         Serve.cpp
+     1>e:\vs daima\network4_serve\network4_serve\serve.cpp(22): warning C4551: 缺少参数列表的函数调用
+     1>e:\vs daima\network4_serve\network4_serve\serve.cpp(133): warning C4244: “=”: 从“std::streamsize”转换到“int”，可能丢失数据
+       Link:
+         E:\VS2013\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\vs daima\Network4_serve\Debug\Network4_serve.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\vs daima\Network4_serve\Debug\Network4_serve.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\vs daima\Network4_serve\Debug\Network4_serve.lib" /MACHINE:X86 Debug\Network4_serve.res
+         Debug\Network4_serve.obj
+         Debug\Serve.obj
+         Debug\stdafx.obj
+         Network4_serve.vcxproj -> E:\vs daima\Network4_serve\Debug\Network4_serve.exe
+     1>已完成生成项目“E:\vs daima\Network4_serve\Network4_serve\Network4_serve.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.09

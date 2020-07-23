@@ -1,0 +1,21 @@
+﻿生成启动时间为 2020/6/26 8:54:00。
+     1>项目“E:\vs daima\Chat_sever\Chat_sever\Chat_sever.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\VS2013\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Chat_sever.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Chat_severDlg.cpp
+         Chat_severDlg.cpp
+     1>e:\vs daima\chat_sever\chat_sever\chat_severdlg.cpp(299): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs daima\chat_sever\chat_sever\chat_severdlg.cpp(331): warning C4002: “_T”宏的实参太多
+     1>e:\vs daima\chat_sever\chat_sever\chat_severdlg.cpp(345): warning C4002: “_T”宏的实参太多
+     1>e:\vs daima\chat_sever\chat_sever\chat_severdlg.cpp(355): warning C4002: “_T”宏的实参太多
+     1>e:\vs daima\chat_sever\chat_sever\chat_severdlg.cpp(362): warning C4002: “_T”宏的实参太多
+       Link:
+         E:\VS2013\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\vs daima\Chat_sever\Debug\Chat_sever.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:E:\VS2013\VS2013\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:"E:\vs daima\Chat_sever\Debug\Chat_sever.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\vs daima\Chat_sever\Debug\Chat_sever.lib" /MACHINE:X86 Debug\Chat_sever.res
+         Debug\Chat_sever.obj
+         Debug\Chat_severDlg.obj
+         Debug\stdafx.obj
+         Chat_sever.vcxproj -> E:\vs daima\Chat_sever\Debug\Chat_sever.exe
+     1>已完成生成项目“E:\vs daima\Chat_sever\Chat_sever\Chat_sever.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.46

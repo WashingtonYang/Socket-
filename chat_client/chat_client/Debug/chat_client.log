@@ -1,0 +1,16 @@
+﻿生成启动时间为 2020/6/26 8:53:34。
+     1>项目“E:\vs daima\chat_client\chat_client\chat_client.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\VS2013\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\chat_client.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt chat_clientDlg.cpp
+         chat_clientDlg.cpp
+       Link:
+         E:\VS2013\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\vs daima\chat_client\Debug\chat_client.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:E:\VS2013\VS2013\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:"E:\vs daima\chat_client\Debug\chat_client.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\vs daima\chat_client\Debug\chat_client.lib" /MACHINE:X86 Debug\chat_client.res
+         Debug\chat_client.obj
+         Debug\chat_clientDlg.obj
+         Debug\stdafx.obj
+         chat_client.vcxproj -> E:\vs daima\chat_client\Debug\chat_client.exe
+     1>已完成生成项目“E:\vs daima\chat_client\chat_client\chat_client.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:07.20

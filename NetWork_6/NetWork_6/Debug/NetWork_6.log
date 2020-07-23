@@ -1,0 +1,15 @@
+﻿生成启动时间为 2020/6/22 22:35:41。
+     1>项目“E:\vs daima\NetWork_6\NetWork_6\NetWork_6.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\VS2013\VS2013\VC\bin\CL.exe /c /IE:\WinPcap\WpdPack\Include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _XKEYCHECK_H /D WPCAP /D HAVE_REMOTE /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\NetWork_6.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt NetWork_6.cpp
+         NetWork_6.cpp
+     1>e:\vs daima\network_6\network_6\network_6.cpp(170): warning C4129: “s”: 不可识别的字符转义序列
+       Link:
+         E:\VS2013\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\vs daima\NetWork_6\Debug\NetWork_6.exe" /INCREMENTAL /NOLOGO /LIBPATH:E:\WinPcap\WpdPack\Lib Packet.lib wpcap.lib ws2_32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\vs daima\NetWork_6\Debug\NetWork_6.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\vs daima\NetWork_6\Debug\NetWork_6.lib" /MACHINE:X86 Debug\NetWork_6.obj
+         Debug\stdafx.obj
+         NetWork_6.vcxproj -> E:\vs daima\NetWork_6\Debug\NetWork_6.exe
+     1>已完成生成项目“E:\vs daima\NetWork_6\NetWork_6\NetWork_6.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.26
